@@ -1,4 +1,4 @@
-# Animal Sound Dataset
+# Wild Animal Sound Dataset
 
 This repository contains a collection of audio files from various wild animals, specifically curated for sound classification tasks. The dataset is intended for training machine learning models, particularly for audio-based classification and recognition of animal sounds.
 
