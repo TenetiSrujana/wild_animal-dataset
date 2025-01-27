@@ -12,6 +12,5 @@ The dataset consists of audio files of animal sounds in `.wav` format. The anima
 - Chimpanzee
 - Horse
 - Bat
-- Deer
 
 Each subfolder in the dataset corresponds to a specific animal, with each audio file being a sound recording of that animal.
