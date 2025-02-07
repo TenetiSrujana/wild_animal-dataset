@@ -8,7 +8,7 @@ The dataset consists of audio files of animal sounds in `.wav` format. The anima
 
 - Elephant
 - Tiger
-- Owl
+- Frog
 - Chimpanzee
 - Horse
 - Bat
